@@ -1,2 +1,2 @@
-No code No pain
-experiment with amend
+Git is awesome!
+Index keeps the next commit
