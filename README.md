@@ -5,3 +5,4 @@ Index keeps the next commit
 Hello, my dear Friend!
 This is my first project in Gitstash test
 second stash
+first stash
